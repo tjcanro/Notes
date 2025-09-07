@@ -86,9 +86,23 @@
               "icon": "lucide-file",
               "title": "Memory Hierarchy and Cache Hierarchy"
             }
+          },
+          {
+            "id": "c12f5cbd18a2abfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 7"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -236,10 +250,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "40885004782ab655",
+  "active": "c12f5cbd18a2abfc",
   "lastOpenFiles": [
-    "Lecture 6.md",
+    "Images/Pasted image 20250907002340.png",
+    "Images/Pasted image 20250907002143.png",
+    "Images/Pasted image 20250907001412.png",
+    "Lecture 7.md",
+    "Images/Pasted image 20250907000715.png",
+    "Images/Pasted image 20250907000415.png",
+    "Images/Pasted image 20250906235914.png",
+    "Images/Pasted image 20250906231500.png",
     "Memory Hierarchy and Cache Hierarchy.md",
+    "Lecture 6.md",
     "Lecture 5.md",
     "Intro to Computer Architecture & Performance.md",
     "Images/Pasted image 20250902234939.png",
@@ -248,12 +270,6 @@
     "Lecture 4.md",
     "Images/Pasted image 20250902232730.png",
     "Images/Pasted image 20250902201216.png",
-    "Images/Pasted image 20250902201025.png",
-    "Images/Pasted image 20250902200123.png",
-    "Images/list X86 pic.png",
-    "Images/Screenshot from 2025-08-29 19-21-14.png",
-    "Images/Screenshot from 2025-08-29 19-19-29.png",
-    "Images/Screenshot from 2025-08-29 19-05-21 1.png",
-    "Images/Screenshot from 2025-08-29 19-05-21.png"
+    "Images/Pasted image 20250902201025.png"
   ]
 }
