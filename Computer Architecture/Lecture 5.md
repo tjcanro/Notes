@@ -107,7 +107,7 @@ Server --> Most jobs in a day: **Throughput/Bandwidth**
 	- 90% of execution time in only 10% of the code --> Allows memory hierarchy
 - Focus on Common Case
 	- **Amdahl's law**
-	- Defines speedup that can be gained by using a featyre
+	- Defines speedup that can be gained by using a feature
 	- Speedup = performance of task with enhancement when possible / performance without enhancement
 	- What to improve to get maximum benefit
 
