@@ -1,4 +1,4 @@
-#Chapter1
+#IntroToCompArch
 # Architecture  & Organization
 
 - Architecture are attributes that have direct on impact on logical execution of a program

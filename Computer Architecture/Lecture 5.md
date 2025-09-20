@@ -1,3 +1,4 @@
+#IntroToCompArch 
 ## Building Processors and Memory
 
 ![[Pasted image 20250902200123.png]]

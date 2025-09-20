@@ -1,3 +1,4 @@
+#memoryHierarchy
 ## Intro
 
 - Programmers want as much memory with low latency

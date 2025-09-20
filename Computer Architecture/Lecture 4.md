@@ -1,3 +1,4 @@
+#IntroToCompArch 
 ## Parallelism
 
 ### In Applications

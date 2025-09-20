@@ -1,3 +1,4 @@
+#Cache
 ## Cache Optimization
 
 ### Block Size Optimization
@@ -81,6 +82,8 @@
 	- Address lines are multiplexed
 		- Upper half is Row access strobe (RAS)
 		- Lower half is Column access strobe (CAS)
+		![[Pasted image 20250915203536.png]]
+	- Activate command opens the bank, loads into row buffer. Once done reading, precharge command is sent. Makes any future access ready
 - DRAM Organization
 	- Amdahl
 		- Memory capacity should grow with processor speed
