@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Architecture/Lecture 4.md",
+                "file": "Computer Architecture/HBM, Virtual memory and VMs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4"
+              "title": "HBM, Virtual memory and VMs"
             }
           }
         ],
@@ -186,6 +186,8 @@
   },
   "active": "ff3383b8f43310cd",
   "lastOpenFiles": [
+    "Computer Architecture/Lecture 8.md",
+    "Computer Architecture/Lecture 6.md",
     "Computer Architecture/Lecture 2 & 3.md",
     "Computer Architecture/Lecture 4.md",
     "Untitled",
