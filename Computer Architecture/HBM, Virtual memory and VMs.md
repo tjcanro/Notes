@@ -177,7 +177,7 @@ One more access to translate VA to PA
 		- Two different virtual addresses map to the same PA
 		- Two different cache entries holding data for the same PA
 
-### Translation Lookaside Buffer (TLB)
+### Translation Lookaside Buffer (         TLB)
 
 - A way to speed up translation to use special cache or recently used page table entries
 - Dirty bit: the frame in main memory has been updated

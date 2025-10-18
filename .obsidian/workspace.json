@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c3b3dffd5ea7931e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Computer Architecture/Images/Pasted image 20251015071820.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251015071820"
+            }
+          },
+          {
             "id": "fc297bd9fb4c524f",
             "type": "leaf",
             "state": {
@@ -27,16 +39,83 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Architecture/HBM, Virtual memory and VMs.md",
+                "file": "Computer Architecture/L16 Pipeline Difficulties & Complier Optimizations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HBM, Virtual memory and VMs"
+              "title": "L16 Pipeline Difficulties & Complier Optimizations"
+            }
+          },
+          {
+            "id": "5a525f6e112298bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture/L17 & L18 Compiler based optimizations & Advanced branch prediction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L17 & L18 Compiler based optimizations & Advanced branch prediction"
+            }
+          },
+          {
+            "id": "e969d35225edcbf8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Computer Architecture/Images/Pasted image 20251009065031.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251009065031"
+            }
+          },
+          {
+            "id": "06472a2632d2eed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture/Lecture 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 5"
+            }
+          },
+          {
+            "id": "0741f1ae2fdda9b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture/L14 L15 Hazards & Implementing Pipeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L14 L15 Hazards & Implementing Pipeline"
+            }
+          },
+          {
+            "id": "73c949cd4dcb9df2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture/Lecture 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MTTF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3190d4772120fc33",
@@ -184,19 +263,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff3383b8f43310cd",
+  "active": "f7913b41fa81d2f7",
   "lastOpenFiles": [
+    "Computer Architecture/L20 Dynamic Scheduling & Tomasulo's Algorithm.md",
+    "Computer Architecture/Images/Pasted image 20251015073421.png",
+    "Computer Architecture/Images/Pasted image 20251015073147.png",
+    "Computer Architecture/Images/Pasted image 20251015072152.png",
+    "Computer Architecture/Images/Pasted image 20251015071916.png",
+    "Computer Architecture/Images/Pasted image 20251015071820.png",
+    "Computer Architecture/L19 Dynamic Scheduling.md",
+    "Computer Architecture/Lecture 5.md",
+    "Computer Architecture/HBM, Virtual memory and VMs.md",
+    "Study Notes.md",
+    "Computer Architecture/L14 L15 Hazards & Implementing Pipeline.md",
+    "Computer Architecture/L16 Pipeline Difficulties & Complier Optimizations.md",
+    "Computer Architecture/L17 & L18 Compiler based optimizations & Advanced branch prediction.md",
+    "Computer Architecture/Advanced Cache Optimization.md",
+    "Computer Architecture/Lecture 9.md",
+    "Computer Architecture/Lecture 7.md",
     "Computer Architecture/Lecture 8.md",
     "Computer Architecture/Lecture 6.md",
-    "Computer Architecture/Lecture 2 & 3.md",
     "Computer Architecture/Lecture 4.md",
+    "Computer Architecture/Lecture 2 & 3.md",
+    "Computer Architecture/Images/Pasted image 20251009065031.png",
+    "Computer Architecture/Images/Pasted image 20251009080515.png",
+    "Computer Architecture/Images/Pasted image 20251009075903.png",
+    "Computer Architecture/Images/Pasted image 20251009065311.png",
+    "Computer Architecture/Images/Pasted image 20251009063358.png",
+    "Computer Architecture/More Virtual Memory Concepts & Processor Pipelining.md",
     "Untitled",
     "Computer Architecture/Images",
-    "Computer Architecture/Images/Pasted image 20250827230922.png",
-    "Computer Architecture/Images/Pasted image 20250827224733.png",
-    "Computer Architecture/Images/Pasted image 20250827224055.png",
-    "Computer Architecture/Images/Pasted image 20250827215647.png",
-    "Computer Architecture/Images/Pasted image 20250827215031.png",
     "Untitled/Untitled.md",
     "Computer Architecture",
     "Untitled/Computer Architecture.md",

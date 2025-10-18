@@ -32,7 +32,7 @@ For accessing cache, you need cache index, tag, and valid bits
 	- Solution: Write buffer
 		- Hold data waiting to be written to memory
 		- CPU continues immediately
-			- Only stalls on write if write buffer is already fall
+			- Only stalls on write if write buffer is already full
 
 ### Measuring Cache Performance
 
