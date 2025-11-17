@@ -140,6 +140,20 @@
             }
           },
           {
+            "id": "56998577ddcc6809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L33 Relaxed Consistency & Parallelism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L33 Relaxed Consistency & Parallelism"
+            }
+          },
+          {
             "id": "307e93db2ce09a75",
             "type": "leaf",
             "state": {
@@ -168,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -225,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7aafd4380634dfed",
@@ -317,21 +330,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "8c6199b5b820d1ec",
+  "active": "56998577ddcc6809",
   "lastOpenFiles": [
+    "L33 Relaxed Consistency & Parallelism.md",
+    "Images/Pasted image 20251116082826.png",
+    "Images/Pasted image 20251116082001.png",
+    "Images/Pasted image 20251116081833.png",
+    "Images/Pasted image 20251116081552.png",
+    "Images/Pasted image 20251116081403.png",
+    "L32 Synchronization & Intro to Consistency Models.md",
     "Images/Pasted image 20251111203002.png",
     "Images/Pasted image 20251111194538.png",
     "Images/Pasted image 20251111165402.png",
     "Images/Pasted image 20251111164948.png",
     "Images/Pasted image 20251111163838.png",
     "L30 & L31 Distributed Shared Mem & Synchronization.md",
-    "L32 Synchronization & Intro to Consistency Models.md",
-    "Images/Pasted image 20251111124548.png",
-    "Images/Pasted image 20251111123739.png",
-    "Images/Pasted image 20251111122901.png",
-    "Images/Pasted image 20251111122532.png",
-    "Images/Pasted image 20251111121520.png",
-    "Images/Pasted image 20251111110615.png",
     "L29 Centralized Shared Mem & Performance of Symmetric Shared-mem Multiprocessors.md",
     "L27 & L28 Shared-Mem Architecture & Symmetric Shared-mem MultiProcessors.md",
     "L26 Speculation & Thread-Level Parallelism.md",
@@ -354,7 +367,6 @@
     "Lecture 4.md",
     "Lab 1 Submission.md",
     "Lecture 2 & 3.md",
-    "Lecture 7.md",
-    "Lecture 6.md"
+    "Lecture 7.md"
   ]
 }
