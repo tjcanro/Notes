@@ -182,6 +182,18 @@
             }
           },
           {
+            "id": "d512d176bb793935",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "307e93db2ce09a75",
             "type": "leaf",
             "state": {
@@ -210,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -358,8 +370,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "96d861435baa8fd9",
+  "active": "307e93db2ce09a75",
   "lastOpenFiles": [
+    "Untitled.md",
     "Images/Pasted image 20251201232715.png",
     "Images/Pasted image 20251201232312.png",
     "Images/Pasted image 20251201231715.png",
@@ -372,7 +385,6 @@
     "Images/Pasted image 20251201071828.png",
     "Images/Pasted image 20251201071408.png",
     "Images/Pasted image 20251201071351.png",
-    "Images/Pasted image 20251201070955.png",
     "L33 Relaxed Consistency & Parallelism.md",
     "L32 Synchronization & Intro to Consistency Models.md",
     "L30 & L31 Distributed Shared Mem & Synchronization.md",

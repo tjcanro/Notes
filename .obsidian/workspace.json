@@ -8,15 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3b3dffd5ea7931e",
+            "id": "6e2a14e856c93a18",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Computer Architecture/Images/Pasted image 20251015071820.png"
+                "file": "Parallel Computing/Classification of Architectures.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251015071820"
+              "icon": "lucide-file",
+              "title": "Classification of Architectures"
+            }
+          },
+          {
+            "id": "0c31120d230ef3a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parallel Computing/OpenMP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenMP"
+            }
+          },
+          {
+            "id": "de5e685d572164e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parallel Computing/OpenMP Part 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenMP Part 2"
             }
           },
           {
@@ -25,12 +55,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Architecture/Lecture 2 & 3.md",
+                "file": "Parallel Computing/MPI Collective Communication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 & 3"
+              "title": "MPI Collective Communication"
+            }
+          },
+          {
+            "id": "57aecdf4d233e9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design 1/Project Pitch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Pitch"
+            }
+          },
+          {
+            "id": "1114b4fb42dd48ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parallel Computing/Exam 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam 1"
+            }
+          },
+          {
+            "id": "b046cc1143420b9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
+            "id": "1c5101fd39f2db3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parallel Computing/OpenMP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenMP"
             }
           },
           {
@@ -115,7 +199,8 @@
               "title": "Lecture 5"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -263,39 +348,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "f7913b41fa81d2f7",
+  "active": "b046cc1143420b9a",
   "lastOpenFiles": [
+    "Parallel Computing/OpenMP Part 1.md",
+    "Parallel Computing/OpenMP Part 2.md",
+    "Parallel Computing/Exam 1.md",
+    "Parallel Computing/OpenMP Memory Model.md",
+    "Parallel Computing/MPI Collective Communication.md",
+    "Parallel Computing/MPI (Message Passing Interface) - Intro.md",
+    "Parallel Computing/MPI Synchronization.md",
+    "Parallel Computing/OpenMP Synchronization.md",
+    "Design 1/ChordSense Misc.md",
+    "Design 1/Equipment demo.md",
+    "Design 1/Project Pitch.md",
+    "Parallel Computing/Lab1.md",
+    "Computer Architecture/Study Notes.md",
+    "Parallel Computing/images/Pasted image 20260306123643.png",
+    "AI Stuff/Deep Learning for Computer Vision Tutorial.md",
+    "AI Stuff/images/Pasted image 20260304141503.png",
+    "AI Stuff/images/Pasted image 20260304152000.png",
+    "AI Stuff/images/Pasted image 20260304151925.png",
+    "AI Stuff/images/Pasted image 20260304151918.png",
+    "AI Stuff/images/Pasted image 20260304151858.png",
+    "AI Stuff/images/Pasted image 20260304144743.png",
+    "AI Stuff/images/Pasted image 20260304142432.png",
+    "AI Stuff/images/Pasted image 20260304142212.png",
+    "AI Stuff/images/Pasted image 20260304142125.png",
+    "AI Stuff/images",
+    "AI Stuff",
+    "Parallel Computing/Performance.md",
+    "Parallel Computing/Overview of Parallel Computing.md",
+    "Parallel Computing/Lab2.md",
+    "Computer Architecture/Lecture 2 & 3.md",
+    "Design 1/images",
+    "Design 1",
+    "Parallel Computing/Classification of Architectures.md",
+    "Parallel Computing/images",
+    "Circuits 1/Intro.md",
+    "Parallel Computing",
+    "Circuits 1",
     "Computer Architecture/L20 Dynamic Scheduling & Tomasulo's Algorithm.md",
-    "Computer Architecture/Images/Pasted image 20251015073421.png",
-    "Computer Architecture/Images/Pasted image 20251015073147.png",
-    "Computer Architecture/Images/Pasted image 20251015072152.png",
-    "Computer Architecture/Images/Pasted image 20251015071916.png",
-    "Computer Architecture/Images/Pasted image 20251015071820.png",
     "Computer Architecture/L19 Dynamic Scheduling.md",
     "Computer Architecture/Lecture 5.md",
     "Computer Architecture/HBM, Virtual memory and VMs.md",
-    "Study Notes.md",
     "Computer Architecture/L14 L15 Hazards & Implementing Pipeline.md",
     "Computer Architecture/L16 Pipeline Difficulties & Complier Optimizations.md",
-    "Computer Architecture/L17 & L18 Compiler based optimizations & Advanced branch prediction.md",
-    "Computer Architecture/Advanced Cache Optimization.md",
-    "Computer Architecture/Lecture 9.md",
-    "Computer Architecture/Lecture 7.md",
-    "Computer Architecture/Lecture 8.md",
-    "Computer Architecture/Lecture 6.md",
-    "Computer Architecture/Lecture 4.md",
-    "Computer Architecture/Lecture 2 & 3.md",
-    "Computer Architecture/Images/Pasted image 20251009065031.png",
-    "Computer Architecture/Images/Pasted image 20251009080515.png",
-    "Computer Architecture/Images/Pasted image 20251009075903.png",
-    "Computer Architecture/Images/Pasted image 20251009065311.png",
-    "Computer Architecture/Images/Pasted image 20251009063358.png",
-    "Computer Architecture/More Virtual Memory Concepts & Processor Pipelining.md",
-    "Untitled",
     "Computer Architecture/Images",
-    "Untitled/Untitled.md",
-    "Computer Architecture",
-    "Untitled/Computer Architecture.md",
-    "Welcome.md"
+    "Computer Architecture"
   ]
 }
